@@ -1,0 +1,4 @@
+venv/*
+.ipynb*
+.idea*
+.DS_stor*
